@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Mohamed Rimshad</title>
+    <link>https://rimshadpcs.github.io/portfolio/post/</link>
+    <description>Recent content in Projects on Mohamed Rimshad</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 19 Sep 2020 10:58:08 -0400</lastBuildDate>
+    
+	<atom:link href="https://rimshadpcs.github.io/portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Play store data cleaning and analysis</title>
+      <link>https://rimshadpcs.github.io/portfolio/post/playstoreana/</link>
+      <pubDate>Sat, 19 Sep 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://rimshadpcs.github.io/portfolio/post/playstoreana/</guid>
+      <description>Exploratory data analysis Data cleaning Data visualization Plotly  Link to project</description>
+    </item>
+    
+    <item>
+      <title>Life expactancy across the globe</title>
+      <link>https://rimshadpcs.github.io/portfolio/post/life_expactancy_tableu/</link>
+      <pubDate>Thu, 17 Sep 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://rimshadpcs.github.io/portfolio/post/life_expactancy_tableu/</guid>
+      <description>Data visualization Tableu dashboard Tableu story  Link to project</description>
+    </item>
+    
+    <item>
+      <title>2019 German grandprix Analysis</title>
+      <link>https://rimshadpcs.github.io/portfolio/post/germangp/</link>
+      <pubDate>Wed, 02 Sep 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://rimshadpcs.github.io/portfolio/post/germangp/</guid>
+      <description>Exploratory data analysis Data visualization  Link to project</description>
+    </item>
+    
+    <item>
+      <title>2019 German grandprix tableu dashboard</title>
+      <link>https://rimshadpcs.github.io/portfolio/post/german_tab/</link>
+      <pubDate>Tue, 01 Sep 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://rimshadpcs.github.io/portfolio/post/german_tab/</guid>
+      <description>Data visualization Tableu dashboard  Link to project</description>
+    </item>
+    
+    <item>
+      <title>Tsunami over the years - tableu dashboard</title>
+      <link>https://rimshadpcs.github.io/portfolio/post/tsunami_tab/</link>
+      <pubDate>Mon, 31 Aug 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://rimshadpcs.github.io/portfolio/post/tsunami_tab/</guid>
+      <description>Data visualization Tableu dashboard  Link to project</description>
+    </item>
+    
+    <item>
+      <title>Data analysis on movies in OTT platforms</title>
+      <link>https://rimshadpcs.github.io/portfolio/post/ott/</link>
+      <pubDate>Sun, 30 Aug 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://rimshadpcs.github.io/portfolio/post/ott/</guid>
+      <description>Exploratory data analysis Data cleaning Data visualization Plotly  Link to project</description>
+    </item>
+    
+    <item>
+      <title>Covid-19 tableu dashboard </title>
+      <link>https://rimshadpcs.github.io/portfolio/post/covid_tab/</link>
+      <pubDate>Wed, 26 Aug 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://rimshadpcs.github.io/portfolio/post/covid_tab/</guid>
+      <description>Data visualization Tableu dashboard  Link to project</description>
+    </item>
+    
+    <item>
+      <title>Titanic: Machine Learning from Disaster</title>
+      <link>https://rimshadpcs.github.io/portfolio/post/titanic_ml/</link>
+      <pubDate>Wed, 19 Aug 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://rimshadpcs.github.io/portfolio/post/titanic_ml/</guid>
+      <description>Exploratory data analysis
+  Data cleaning
+  Data visualization
+  Survival prediction using Suppport vector machines
+  Public Score - 0.78229
+  Rank 3959 out of 18787 (Top 22%)
+  Link to project</description>
+    </item>
+    
+    <item>
+      <title>Sales forecast </title>
+      <link>https://rimshadpcs.github.io/portfolio/post/sales_forecast_xl/</link>
+      <pubDate>Mon, 20 Jul 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://rimshadpcs.github.io/portfolio/post/sales_forecast_xl/</guid>
+      <description>Excel sheet Pivot table Data visualization  Link to project</description>
+    </item>
+    
+  </channel>
+</rss>
