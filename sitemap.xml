@@ -4,20 +4,27 @@
   
   <url>
     <loc>https://rimshadpcs.github.io/portfolio/</loc>
-    <lastmod>2020-09-19T10:58:08-04:00</lastmod>
+    <lastmod>2020-09-21T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://rimshadpcs.github.io/portfolio/post/playstoreana/</loc>
-    <lastmod>2020-09-19T10:58:08-04:00</lastmod>
+    <loc>https://rimshadpcs.github.io/portfolio/post/house_price/</loc>
+    <lastmod>2020-09-21T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://rimshadpcs.github.io/portfolio/post/</loc>
+    <lastmod>2020-09-21T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://rimshadpcs.github.io/portfolio/post/playstoreana/</loc>
     <lastmod>2020-09-19T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>

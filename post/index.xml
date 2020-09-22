@@ -6,10 +6,24 @@
     <description>Recent content in Projects on Mohamed Rimshad</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 19 Sep 2020 10:58:08 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2020 10:58:08 -0400</lastBuildDate>
     
 	<atom:link href="https://rimshadpcs.github.io/portfolio/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>House Prices: Advanced Regression Techniques - Machine learning</title>
+      <link>https://rimshadpcs.github.io/portfolio/post/house_price/</link>
+      <pubDate>Mon, 21 Sep 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://rimshadpcs.github.io/portfolio/post/house_price/</guid>
+      <description>Data cleaning
+  Feature engineering
+  Machine learning
+  House price prediction with Random Forest Regression
+  Public Score - 0.14550
+  Link to project</description>
+    </item>
     
     <item>
       <title>Play store data cleaning and analysis</title>
@@ -83,9 +97,8 @@
       <description>Exploratory data analysis
   Data cleaning
   Data visualization
-  Survival prediction using Suppport vector machines
+  Survival prediction with Suppport vector machines
   Public Score - 0.78229
-  Rank 3959 out of 18787 (Top 22%)
   Link to project</description>
     </item>
     
