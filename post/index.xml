@@ -111,5 +111,14 @@
       <description>Excel sheet Pivot table Data visualization  Link to project</description>
     </item>
     
+    <item>
+      <title>Detecting coin values - computer vision </title>
+      <link>https://rimshadpcs.github.io/portfolio/post/coinscv/</link>
+      <pubDate>Sun, 12 Apr 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://rimshadpcs.github.io/portfolio/post/coinscv/</guid>
+      <description>Computer vision  Link to project</description>
+    </item>
+    
   </channel>
 </rss>
