@@ -4,20 +4,41 @@
   
   <url>
     <loc>https://rimshadpcs.github.io/portfolio/</loc>
-    <lastmod>2020-09-21T10:58:08-04:00</lastmod>
+    <lastmod>2021-01-24T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://rimshadpcs.github.io/portfolio/post/house_price/</loc>
-    <lastmod>2020-09-21T10:58:08-04:00</lastmod>
+    <loc>https://rimshadpcs.github.io/portfolio/post/poem_gen/</loc>
+    <lastmod>2021-01-24T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://rimshadpcs.github.io/portfolio/post/</loc>
+    <lastmod>2021-01-24T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://rimshadpcs.github.io/portfolio/post/cifar10_image/</loc>
+    <lastmod>2021-01-20T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://rimshadpcs.github.io/portfolio/post/amazon_stock/</loc>
+    <lastmod>2021-01-10T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://rimshadpcs.github.io/portfolio/post/house_price/</loc>
     <lastmod>2020-09-21T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>

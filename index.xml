@@ -6,10 +6,37 @@
     <description>Recent content in Hello, World! on Mohamed Rimshad</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Sep 2020 10:58:08 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 24 Jan 2021 10:58:08 -0400</lastBuildDate>
     
 	<atom:link href="https://rimshadpcs.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Poem generation with NLP </title>
+      <link>https://rimshadpcs.github.io/portfolio/post/poem_gen/</link>
+      <pubDate>Sun, 24 Jan 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://rimshadpcs.github.io/portfolio/post/poem_gen/</guid>
+      <description>Machine learning Neural networks Natural language processing Reccurant neural network Tensorflow  Link to project</description>
+    </item>
+    
+    <item>
+      <title>Image recognition with Computer Vision </title>
+      <link>https://rimshadpcs.github.io/portfolio/post/cifar10_image/</link>
+      <pubDate>Wed, 20 Jan 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://rimshadpcs.github.io/portfolio/post/cifar10_image/</guid>
+      <description>Machine learning Neural networks Computer Vision Convolutional neural network Tensorflow  Link to project</description>
+    </item>
+    
+    <item>
+      <title>Amazon stock price prediction - with Neural network and LSTM </title>
+      <link>https://rimshadpcs.github.io/portfolio/post/amazon_stock/</link>
+      <pubDate>Sun, 10 Jan 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://rimshadpcs.github.io/portfolio/post/amazon_stock/</guid>
+      <description>Machine learning Neural networks LSTM  Link to project</description>
+    </item>
     
     <item>
       <title>House Prices: Advanced Regression Techniques - Machine learning</title>
@@ -126,7 +153,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://rimshadpcs.github.io/portfolio/contact/</guid>
-      <description>   Platform url     Linkedin: https://www.linkedin.com/in/mohamed-rimshad/   Kaggle: https://www.kaggle.com/rimshadpcs   email: rimshadpcs@gmail.com    </description>
+      <description>   Platform url     Linkedin: https://www.linkedin.com/in/mohamed-rimshad/   Kaggle: https://www.kaggle.com/rimshadpcs   email: rimshadpcs@gmail.com   github: https://github.com/rimshadpcs    </description>
     </item>
     
   </channel>
